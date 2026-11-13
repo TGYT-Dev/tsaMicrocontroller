@@ -18768,7 +18768,7 @@
 		)
 	)
 	(global_label "D0"
-		(shape output)
+		(shape input)
 		(at 121.92 241.3 0)
 		(fields_autoplaced yes)
 		(effects
