@@ -1,12 +1,22 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 25,
     "active_layer_preset": "",
     "auto_track_width": false,
     "hidden_netclasses": [
       "V"
     ],
-    "hidden_nets": [],
+    "hidden_nets": [
+      "CSL4",
+      "CSL7",
+      "CSL3",
+      "CSL2",
+      "CSL1",
+      "CSL8",
+      "CSL5",
+      "CSL9",
+      "CSL6"
+    ],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
