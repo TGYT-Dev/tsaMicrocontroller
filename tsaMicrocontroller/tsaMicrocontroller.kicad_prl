@@ -7,15 +7,15 @@
       "V"
     ],
     "hidden_nets": [
-      "CSL4",
-      "CSL7",
-      "CSL3",
-      "CSL2",
       "CSL1",
-      "CSL8",
+      "CSL2",
+      "CSL3",
+      "CSL4",
       "CSL5",
-      "CSL9",
-      "CSL6"
+      "CSL6",
+      "CSL7",
+      "CSL8",
+      "CSL9"
     ],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
